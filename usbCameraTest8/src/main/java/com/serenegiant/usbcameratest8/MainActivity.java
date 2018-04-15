@@ -209,6 +209,9 @@ public final class MainActivity extends BaseActivity implements CameraDialog.Cam
 			case R.id.reset_button:
 				resetSettings();
 				break;
+			case  R.id.camera_view:
+					//do git branch testing 20180415 zjb
+					break;
 			}
 		}
 	};
